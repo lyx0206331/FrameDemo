@@ -1,0 +1,5 @@
+include ':blemodule'
+include ':adrianmvvm'
+include ':basemodule'
+include ':app'
+rootProject.name = "FrameDemo"
